@@ -10,7 +10,7 @@
 #define WIFI_PASSWORD "SSID_PASS"
 
 
-#define TOKEN "6xEP4uTx2fY5224VlliR"  //this token
+#define TOKEN "A37lwBo9ETJdmmrPmme6"  //this token
 
 //ECG input pin
 #define BIOSENSOR_PIN 0    //change to NodeMCU ADC
